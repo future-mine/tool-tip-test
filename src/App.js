@@ -5,7 +5,9 @@ function App() {
     <div className="App">
       <h1>Tool tip essential</h1>
       <Tooltip
-        text={"This is tooltip For long This is tooltip For long "}
+        text={
+          "This is tooltip For long This is tooltip For long  This is tooltip For long  This is tooltip For long"
+        }
         bold={true}
         italic={true}
         left={200}

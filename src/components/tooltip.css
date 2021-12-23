@@ -1,0 +1,6 @@
+.pane {
+  overflow-y: auto;
+}
+.pane::-webkit-scrollbar {
+  display: none;
+}
